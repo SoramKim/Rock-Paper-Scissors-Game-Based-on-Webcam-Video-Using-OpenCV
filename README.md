@@ -1,4 +1,4 @@
-# Rock-Paper-Scissors-Game-Based-on-Webcam-Video
+# Rock-Paper-Scissors-Game-Based-on-Webcam-Video - Soram Kim
 ![simulation imgae](https://user-images.githubusercontent.com/50056220/106250897-99fb6b80-6257-11eb-9a38-5adb206a2b2d.PNG)
 
 
